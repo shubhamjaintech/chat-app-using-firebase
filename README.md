@@ -1,1 +1,1 @@
-# chatUsingFirebase
+# chat-app-using-firebase
